@@ -9,7 +9,7 @@ CAD and CAM for a four player, 120 peg cribbage board.
     - I would suggest a slightly stronger magnet!
 - Hinges
   - [Everbilt 1 in. Satin Brass Narrow Utility Non-Removable Pin Hinges (2-Pack)](https://www.homedepot.com/p/Everbilt-1-in-Satin-Brass-Narrow-Utility-Non-Removable-Pin-Hinges-2-Pack-14469/203339945)
-  - Dimensions can be found [here](./images/hinge_dimensions) and [here](./images/hinge_dimensions_2).
+  - Dimensions can be found [here](./images/hinge_dimensions.png) and [here](./images/hinge_dimensions_2.png).
 
 ## Finish
 - Zinsser Bulls Eye SealCoat 100% Wax-Free Shellac
