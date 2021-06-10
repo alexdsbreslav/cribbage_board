@@ -2,9 +2,10 @@
 CAD and CAM for a four player, 120 peg cribbage board.
 
 ![cad](./images/design.png)
-![cam](./images/cam_video.mp4)
 
-
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="./images/cam_video.mp4">
+</video>
 
 ## Hardware
 - Magnet Fasteners
