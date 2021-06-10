@@ -1,6 +1,11 @@
 # Cribbage Board
 CAD and CAM for a four player, 120 peg cribbage board.
 
+[cad](./images/design.png)
+[cam](./images/cam_video.mov)
+
+
+
 ## Hardware
 - Magnet Fasteners
   - [Master Magnet 0.47 in. Neodymium Rare-Earth Magnet Discs (6 per Pack)](https://www.homedepot.com/p/Master-Magnet-0-47-in-Neodymium-Rare-Earth-Magnet-Discs-6-per-Pack-07046HD/202526367)
